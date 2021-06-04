@@ -5,9 +5,9 @@ I am interested in learning DS, Java , Ruby ,Chef and would 💖 to grow my know
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working as SDE.
+- 🔭 I’m currently working as a SDE.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 👯 I’m looking to collaborate for Java Projects.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Chef, Terraform, Java and Ruby.
 - 😄 Pronouns: He/Him
@@ -81,5 +81,5 @@ Languages and Tools🛠:
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Nirbhay1997?tab=repositories)!
 
 </div>
------
+
 
