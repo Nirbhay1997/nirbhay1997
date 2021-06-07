@@ -40,7 +40,7 @@ Languages and Tools🛠:
 
 
 
-<a href="https://github.com/NIrbhay1997">
+<a href="https://github.com/Nirbhay1997">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
@@ -62,7 +62,7 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/Nirbhay1997">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay1997&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/Nirbhay1997">
