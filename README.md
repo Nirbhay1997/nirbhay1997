@@ -10,7 +10,6 @@ I am interested in learning DS, Java , Ruby ,Chef and would 💖 to grow my know
 - 👯 I’m looking to collaborate for Java Projects.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Chef, Terraform, Java and Ruby.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Nirbhay1997.Nirbhay1997)
