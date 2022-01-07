@@ -9,7 +9,7 @@ I am interested in  DS, Java , Ruby ,Chef and working on 💖 to grow my knowled
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate for Java Projects.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Chef, Terraform, Java and Ruby.
+- 💬 Ask me about Chef, Terraform and Ruby.
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Nirbhay1997.Nirbhay1997)
