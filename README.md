@@ -1,7 +1,7 @@
 
 ### About me🧑:
 I am a Software Engineer.<br/>
-I am interested in  DS, Java , Ruby ,Chef and working on 💖 to grow my knowledge in these Areas.
+I am interested in Ruby ,Chef and working on 💖 to grow my knowledge in these Areas.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
