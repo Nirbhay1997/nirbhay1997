@@ -7,7 +7,6 @@ I am interested in Ruby ,Chef and working on 💖 to grow my knowledge in these 
 
 - 🔭 I’m currently working as a SDE.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate for Java Projects.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Chef, Terraform and Ruby.
 - ⚡ Fun fact: I 💖 to code 24x7.
